@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HuxueApi</name>
+    </assembly>
+    <members>
+        <member name="M:HuxueApi.Controllers.HomeController.GetHome(System.String)">
+            <summary>
+            获取数据
+            </summary>
+            <param name="id">编码</param>
+        </member>
+        <member name="M:HuxueApi.Controllers.HomeController.AddHomeInfo(HuxueApi.Model.Home)">
+            <summary>
+            添加数据
+            </summary>
+        </member>
+        <member name="M:HuxueApi.Controllers.HomeController.UpdateHomeInfo(HuxueApi.Model.Home)">
+            <summary>
+            更新数据
+            </summary>
+        </member>
+        <member name="M:HuxueApi.Controllers.HomeController.DeleteHomeInfo(System.String)">
+            <summary>
+            删除数据
+            </summary>
+            <param name="id">编码</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
